@@ -7,9 +7,14 @@ image credits: "The Odin Project".
 ![landing-page-styles-spec](https://user-images.githubusercontent.com/56130851/147966571-160d85a4-e8fe-41d3-972d-29beff25b129.png)
 
 ## landing-page V1.0
-image credits: 
-Northern Lights : Photo by Frans Van Heerden from Pexels
-Green forest  trees : Photo by Luis del Río from Pexels
-Volcano erupting : Photo by Clive Kim from Pexels
-Stonehenge : Photo by Samuel Wölfl from Pexels
-Itsukushima shrine Japan : Photo by Sergio from Pexels
+![landing-page-top](https://user-images.githubusercontent.com/56130851/148013580-0eb91bc4-c29b-4333-9e16-7027141cacfb.png)
+![landing-page-bottom](https://user-images.githubusercontent.com/56130851/148013588-70a775c5-22fe-4161-b81e-98ea71b04de7.png)
+
+### image credits: 
+- Northern Lights : Photo by Frans Van Heerden from Pexels
+- Green forest  trees : Photo by Luis del Río from Pexels
+- Volcano erupting : Photo by Clive Kim from Pexels
+- Stonehenge : Photo by Samuel Wölfl from Pexels
+- Itsukushima shrine Japan : Photo by Sergio from Pexels
+
+
