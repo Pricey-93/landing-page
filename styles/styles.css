@@ -121,7 +121,7 @@ button {
 }
 
 #quote {
-    height: 50%;
+    padding: 15vh;
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
