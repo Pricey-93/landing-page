@@ -6,7 +6,7 @@ image credits: "The Odin Project".
 ![landing-page-spec](https://user-images.githubusercontent.com/56130851/147966561-a698b86a-3da9-4334-aa1d-f2409d2e2e56.png)
 ![landing-page-styles-spec](https://user-images.githubusercontent.com/56130851/147966571-160d85a4-e8fe-41d3-972d-29beff25b129.png)
 
-##landing-page V1.0
+## landing-page V1.0
 image credits: 
 Northern Lights : Photo by Frans Van Heerden from Pexels
 Green forest  trees : Photo by Luis del Río from Pexels
